@@ -19,4 +19,4 @@ wget https://github.com/Ginftec/aulateste.git
 Invoke-WebRequest https://github.com/Ginftec/aulateste.git
 
 ## Requisito
-- Git
+- Git version
