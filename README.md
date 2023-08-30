@@ -1,6 +1,31 @@
-# AULA TESTE GIT
+# CURSO DE APLICATIVOS PARA DISPOSITIVOS MOVEIS
 
-## Teste 1
+Esta a documentação do processo de construção de um **_aplicativos para dispositivel movel_**
+
+## Funcionalidades:
+
+## Linguagem do projeto:
+
+* Html
+* CSS
+* Java
+* JavaScript
+* MySQL
+* PHP
+
+## Funcionalidade a desenvolver:
+
+1. Área de menbros
+    1. Login diferente para o grupo de clientes
+    2. Desconto para o grupos de clientes
+    3. CSS diferente para o grupos de clientes
+2. Integração com outros pagamentos
+3. Sistema de bônus primeiro compra
+
+###### Melhoramentos
+
+
+
 
 git clone https://github.com/Ginftec/aulateste.git
 
