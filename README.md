@@ -51,7 +51,7 @@ funcation soma(a,b){
 }
 ```
 
-#### Lista a fazer:
+#### Lista de tarefas a fazer:
 
 - [x] Área de menbros
 - [ ] Integração com outros pagamentos
