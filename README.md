@@ -41,7 +41,7 @@ Esta a documentação do processo de construção de um **_aplicativos para disp
 
 Contribuidor Principal: https://github.com/Ginftec
 
-[![Logo do PHP](https://cdn-icons-png.flaticon.com/256/5968/5968332.png)]
+[![Logo do PHP](https://pngimg.com/uploads/php/php_PNG50.png)]
 
 
 
