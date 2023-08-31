@@ -53,12 +53,12 @@ funcation soma(a,b){
 
 #### Lista a fazer:
 
--[x] Área de menbros
--[] Integração com outros pagamentos
--[] Sistema de bônus primeiro compra
--[x] CSS do rodapé 
+- [x] Área de menbros
+- [] Integração com outros pagamentos
+- [] Sistema de bônus primeiro compra
+- [x] CSS do rodapé 
 
-
+#### teste
 
 ## Comandos de referencia:
 
