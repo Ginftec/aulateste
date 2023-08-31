@@ -24,6 +24,11 @@ Esta a documentação do processo de construção de um **_aplicativos para disp
 
 ###### Melhoramentos
 
+#### Imagem local
+
+![Logo do Python](img/python.png)
+
+#### Imagem externa
 
 ## Comandos de referencia:
 
