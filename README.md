@@ -43,7 +43,13 @@ Contribuidor Principal: https://github.com/Ginftec
 
 [![Logo do PHP](https://pngimg.com/uploads/php/php_PNG50.png)]
 
+#### Códigos de Funções:
 
+```javaScript 
+funcation soma(a,b){
+    return a b:
+}
+```
 
 ## Comandos de referencia:
 
