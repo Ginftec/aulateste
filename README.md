@@ -56,7 +56,8 @@ funcation soma(a,b){
 -[x] Área de menbros
 -[] Integração com outros pagamentos
 -[] Sistema de bônus primeiro compra
--[x] CSS do rodapé
+-[x] CSS do rodapé 
+
 
 
 ## Comandos de referencia:
