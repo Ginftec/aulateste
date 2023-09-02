@@ -91,7 +91,14 @@ Teste 2 | Exemplo 2
 Teste 3 | Exemplo 3
 Teste 4 | Exemplo 4
 
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Exemplo | Exemplo | Exemplo
+
 ***
+#### Emojis
+
+:neckbeard:
 #### teste
 
 ## Comandos de referencia:
