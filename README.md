@@ -70,7 +70,11 @@ funcation soma(a,b){
 
 ```Ei, leia a nota abaixo desta tabela.```
 
+#### Notas de Rodapé:
 
+Notas de rodapé[^1]
+
+[^1]: Refêrencia
 
 #### teste
 
