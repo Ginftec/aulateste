@@ -3,6 +3,11 @@
 Esta a documentação do processo de construção de um **_aplicativos para dispositivel movel_**
 
 ## Funcionalidades:
+- A
+    - A1
+    - A2
+- B
+- C
 
 ## Linguagem do projeto:
 
@@ -32,7 +37,9 @@ Esta a documentação do processo de construção de um **_aplicativos para disp
 
 ![Logo do PHP](https://pngimg.com/uploads/php/php_PNG50.png)
 
+<img src="https://#.gif" alt="Minha Figura" style="zoom:50%;" />
 
+<img src="imagem.jpg" alt="Minha Figura"><figcaption>Informações da Figura</figcaption>
 #### Links da Google
 
 [Google](https://www.google.com.br/)
@@ -98,7 +105,7 @@ Exemplo | Exemplo | Exemplo
 ***
 #### Emojis
 
-:neckbeard: :red_car: :pushpin:
+:neckbeard: :red_car: :pushpin: :octocat: :bowtie:
 #### teste
 
 ## Comandos de referencia:
