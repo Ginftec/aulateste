@@ -60,6 +60,18 @@ funcation soma(a,b){
 - [ ] Sistema de bônus primeiro compra
 - [x] CSS do rodapé 
 
+#### Citação:
+
+> Rafa Rafael
+
+#### Código:
+
+`cout<<"Hello world";`
+
+```Ei, leia a nota abaixo desta tabela.```
+
+
+
 #### teste
 
 ## Comandos de referencia:
