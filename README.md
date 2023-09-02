@@ -72,9 +72,9 @@ funcation soma(a,b){
 
 #### Notas de Rodapé:
 
-Notas de rodapé[^1]
+Notas de rodapé[^1] <br> [^1]: Refêrencia
 
-[^1]: Refêrencia
+
 
 #### teste
 
