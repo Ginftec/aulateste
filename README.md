@@ -98,7 +98,7 @@ Exemplo | Exemplo | Exemplo
 ***
 #### Emojis
 
-:neckbeard: 🚗 :red_car:
+:neckbeard: :red_car: :pushpin:
 #### teste
 
 ## Comandos de referencia:
