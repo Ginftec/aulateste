@@ -37,7 +37,7 @@ Esta a documentação do processo de construção de um **_aplicativos para disp
 
 [Google](https://www.google.com.br/)
 
-[[Google|sadadd]](https://www.google.com.br/) asdsad
+Clique [aqui](https://github.com) para acessar à página do GitHub.
 
 [https://www.google.com.br/](https://www.google.com.br/)
 
@@ -63,6 +63,11 @@ funcation soma(a,b){
 #### Citação:
 
 > Rafa Rafael
+>> Rafa
+> #### Leiame
+> - Info
+>
+> *Everything* is going **well**.
 
 #### Código:
 
@@ -79,8 +84,14 @@ Notas de rodapé[^1]
 --- 
 #### Tabelas:
 
-| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+Teste   | Exemplo
+------- | ------
+Teste 1 | Exemplo 1
+Teste 2 | Exemplo 2
+Teste 3 | Exemplo 3
+Teste 4 | Exemplo 4
 
+***
 #### teste
 
 ## Comandos de referencia:
