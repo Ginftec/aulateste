@@ -2,6 +2,7 @@
 
 Esta a documentação do processo de construção de um **_aplicativos para dispositivel movel_**
 
+marp: true
 ## Funcionalidades:
 - A
     - A1
@@ -31,7 +32,7 @@ Esta a documentação do processo de construção de um **_aplicativos para disp
 
 #### Imagem local
 
-![Logo do Python](img/python.png)
+![Logo do Python 50%](img/python.png)
 
 #### Imagem externa
 
