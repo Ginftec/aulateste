@@ -73,7 +73,6 @@ funcation soma(a,b){
 #### Notas de Rodapé:
 
 Notas de rodapé[^1]
-
 [^1]: Refêrencia
 
 
