@@ -1,7 +1,7 @@
 # CURSO DE APLICATIVOS PARA DISPOSITIVOS MOVEIS
 
 Esta a documentação do processo de construção de um **_aplicativos para dispositivel movel_**
-
+<!--   --->
 marp: true
 ## Funcionalidades:
 - A
@@ -32,7 +32,7 @@ marp: true
 
 #### Imagem local
 
-![Logo do Python 50%](img/python.png)
+![Logo do Python](img/python.png)
 
 #### Imagem externa
 
